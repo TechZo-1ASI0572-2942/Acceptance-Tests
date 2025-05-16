@@ -1,4 +1,4 @@
-Feature: Filtrado de Objetos
+Feature: US06 - Filtrado de Objetos
 
   Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.
 

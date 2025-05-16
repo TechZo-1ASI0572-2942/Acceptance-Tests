@@ -1,4 +1,4 @@
-Feature: Adquirir la suscripción premium
+Feature: US20 - Adquirir la suscripción premium
 
   Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.
 

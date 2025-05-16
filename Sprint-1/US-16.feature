@@ -1,4 +1,4 @@
-Feature: Visualización de objetos disponibles para intercambio
+Feature: US16 - Visualización de objetos disponibles para intercambio
 
   Como usuario, necesito poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen.
 

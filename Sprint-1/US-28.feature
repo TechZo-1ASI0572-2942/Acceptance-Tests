@@ -1,4 +1,4 @@
-Feature: Visualizar las características clave de la aplicación
+Feature: US28 - Visualizar las características clave de la aplicación
 
   Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.
 

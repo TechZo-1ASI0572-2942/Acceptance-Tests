@@ -1,4 +1,4 @@
-Feature: Iniciar sesión en la aplicación
+Feature: US03 - Iniciar sesión en la aplicación
 
   Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.
 

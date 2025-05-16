@@ -1,4 +1,4 @@
-Feature: Crear publicación de intercambio
+Feature: US12 - Crear publicación de intercambio
 
   Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar.
 

@@ -1,4 +1,4 @@
-Feature: Ver la información detallada de un producto publicado
+Feature: US19 - Ver la información detallada de un producto publicado
 
   Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio.
 

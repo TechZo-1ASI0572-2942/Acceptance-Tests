@@ -1,4 +1,4 @@
-Feature: Descargar la aplicación de CambiaZo
+Feature: US30 - Descargar la aplicación de CambiaZo
 
   Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo web.
 

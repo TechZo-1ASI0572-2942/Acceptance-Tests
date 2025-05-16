@@ -1,4 +1,4 @@
-Feature: Cerrar Sesión
+Feature: US05 - Cerrar Sesión
 
   Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo web.
 

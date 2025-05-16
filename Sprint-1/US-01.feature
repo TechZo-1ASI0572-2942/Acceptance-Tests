@@ -1,4 +1,4 @@
-Feature: Registro de usuario
+Feature: US01 - Registro de usuario
 
   Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.
 
